@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sundala1.github.io/prepfuel/sitemap.xml
